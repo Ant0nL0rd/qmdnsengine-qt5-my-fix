@@ -25,7 +25,7 @@
 #ifndef QMDNSENGINE_MESSAGE_H
 #define QMDNSENGINE_MESSAGE_H
 
-#include <QHostAddress>
+#include <Network/QHostAddress>
 #include <QList>
 
 #include "qmdnsengine_export.h"

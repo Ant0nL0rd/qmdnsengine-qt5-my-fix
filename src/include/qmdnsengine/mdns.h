@@ -26,7 +26,7 @@
 #define QMDNSENGINE_MDNS_H
 
 #include <QByteArray>
-#include <QHostAddress>
+#include <Network/QHostAddress>
 
 #include "qmdnsengine_export.h"
 

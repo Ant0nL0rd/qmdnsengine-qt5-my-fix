@@ -26,7 +26,7 @@
 #define QMDNSENGINE_RECORD_H
 
 #include <QByteArray>
-#include <QHostAddress>
+#include <Network/QHostAddress>
 #include <QMap>
 
 #include <qmdnsengine/bitmap.h>

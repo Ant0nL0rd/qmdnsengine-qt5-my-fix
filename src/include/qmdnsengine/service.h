@@ -26,7 +26,7 @@
 #define QMDNSENGINE_SERVICE_H
 
 #include <QByteArray>
-#include <QHostAddress>
+#include <Network/QHostAddress>
 #include <QList>
 #include <QMap>
 
