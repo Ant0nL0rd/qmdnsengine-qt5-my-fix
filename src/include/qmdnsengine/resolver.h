@@ -25,7 +25,7 @@
 #ifndef QMDNSENGINE_RESOLVER_H
 #define QMDNSENGINE_RESOLVER_H
 
-#include <Network/QHostAddress>
+#include <QtNetwork/QHostAddress>
 #include <QObject>
 
 #include "qmdnsengine_export.h"
